@@ -1,0 +1,7 @@
+class{
+ public static m1(){
+}
+public void m2(){
+}
+
+}
